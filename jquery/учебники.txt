@@ -1,0 +1,3 @@
+http://www.wisdomweb.ru/JQd/ajax.php
+
+http://code.mu/books/javascript/jquery/
